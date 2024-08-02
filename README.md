@@ -12,3 +12,6 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Power Disables power saving, throttling
 - Miscellaneous Disables thermal throttling, enables AAC encoding
   
+# Requirment 
+- Magisk installed idk about kernelsu
+  
