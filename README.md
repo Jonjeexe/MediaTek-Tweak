@@ -3,3 +3,5 @@
 
 
 This Module will tweak your MediaTek processor and improve performance in Gaming !
+
+# Changelog
