@@ -5,3 +5,10 @@
 This Module will tweak your MediaTek processor and improve performance in Gaming !
 
 # Changelog
+- CPU Enables boost, sets min/max frequencies
+- GPU Enables boost, sets frequency
+- Memory Enables tweak, sets allocation
+- Display Sets refresh rate, MSAA (multisample anti-aliasing)
+- Power Disables power saving, throttling
+- Miscellaneous Disables thermal throttling, enables AAC encoding
+  
