@@ -5,13 +5,25 @@
 This Module will tweak your MediaTek processor and improve performance in Gaming !
 
 # Changelog
-- CPU Enables boost, sets min/max frequencies
+- CPU Enables boost, sets min/max freq
 - GPU Enables boost, sets frequency
 - Memory Enables tweak, sets allocation
-- Display Sets refresh rate, MSAA (multisample anti-aliasing)
+- Stable refresh rate
 - Power Disables power saving, throttling
-- Miscellaneous Disables thermal throttling, enables AAC encoding
+- Miscellaneous Disables thermal
+- Touch improvement
+- Disabled FPS limited
+- lot's of tweaks lazy to mention xd
   
 # Requirment 
-- Magisk installed idk about kernelsu
+- Devices [ ROOTED ]
+- Magisk installed or kernelsu
   
+# installation 
+- Step 1 : Download Module
+- Step 2 : Open Magisk manager
+- Step 3 : Go to Module section
+- Step 4 : Flash Module
+- Theb Reboot your devices
+
+- Congratulations enjoy 🎉 
