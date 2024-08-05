@@ -29,9 +29,17 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 
 Successfully Module flashed
 Congratulations enjoy 🎉 
- 
+
+..........................................
+..........................................
+
 Note :- Don't only depend on Module make sure your device have 5GB internal Storage 
 free and during Gaming clear recent application and froce-stop for better performance!
 
+..........................................
+..........................................
+
 Download Module from Release section !
 Telegram account: @Jonjeexe
+
+....
