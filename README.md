@@ -24,6 +24,9 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Step 2 : Open Magisk manager
 - Step 3 : Go to Module section
 - Step 4 : Flash Module
-- Theb Reboot your devices
+- Then Reboot your devices !
 
-- Congratulations enjoy 🎉 
+Congratulations enjoy 🎉
+
+Download Module from Release section !
+Telegram account: @Jonjeexe
