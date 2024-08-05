@@ -11,6 +11,7 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Stable refresh rate
 - Power Disables power saving, throttling
 - Miscellaneous Disables thermal
+- Improve Graphics rendering 
 - Touch improvement
 - Disabled FPS limited
 - lot's of tweaks lazy to mention xd
@@ -26,7 +27,8 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Step 4 : Flash Module
 - Then Reboot your devices !
 
-Congratulations enjoy 🎉
+• Congratulations enjoy 🎉
+Now you can play Games more smoother 
 
 Download Module from Release section !
 Telegram account: @Jonjeexe
