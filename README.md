@@ -27,8 +27,11 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Step 4 : Flash Module
 - Then Reboot your devices !
 
-• Congratulations enjoy 🎉
-Now you can play Games more smoother 
+Successfully Module flashed
+Congratulations enjoy 🎉 
+ 
+Note :- Don't only depend on Module make sure your device have 5GB internal Storage 
+free and during Gaming clear recent application and froce-stop for better performance!
 
 Download Module from Release section !
 Telegram account: @Jonjeexe
