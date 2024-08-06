@@ -27,11 +27,11 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 - Step 4 : Flash Module
 - Then Reboot your devices !
 
-Successfully Module flashed
 Congratulations enjoy 🎉 
+Successfully Module flashed
 
-Thanks to @Sukuna567 for testing 
-
-
+# Download 
 Download Module from Release section !
 Telegram account: @Jonjeexe
+
+Thanks to @Sukuna567 for testing 
