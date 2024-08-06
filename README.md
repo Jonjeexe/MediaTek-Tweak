@@ -30,6 +30,7 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 Successfully Module flashed
 Congratulations enjoy 🎉 
 
+Thanks for @Sukuna567 for testing 
 .....................................................................
 
 .....................................................................
