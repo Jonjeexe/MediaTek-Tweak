@@ -36,8 +36,17 @@ Successfully Module flashed
 ---
 
 </div>
-# Download 
+<style>
+.note {
+      height:auto;
+      width:100%;
+      box-shadow:0 0 0 15px #aaa;
+  }
+</style>
+<div class="note">
+# Download
 Download Module from Release section !
 Telegram account: @Jonjeexe
-
+</div>
+<br>
 Thanks to @Sukuna567 for testing 
