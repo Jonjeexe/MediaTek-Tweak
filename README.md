@@ -51,5 +51,5 @@ Telegram account: @Jonjeexe
 </div>
 <br>
 <p>
-Thanks to [@Sukuna567]  (https://t.me/Sukuna567) for testing
+Thanks to [@Sukuna567] (https://t.me/Sukuna567).
 </p>
