@@ -37,12 +37,15 @@ Successfully Module flashed
 
 </div>
 
-# Download
 <div>
+<h4>Download </h4>
 ---
+
 Download Module from Release section !
 Telegram account: @Jonjeexe
+  
 ---
+  
 </div>
 <br>
 <h5>Thanks to @Sukuna567 for testing </h5>
