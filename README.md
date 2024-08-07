@@ -41,6 +41,8 @@ Successfully Module flashed
 
 <div>
 
+---
+
 Download Module from Release section !
 Telegram account: @Jonjeexe
   
@@ -48,4 +50,4 @@ Telegram account: @Jonjeexe
   
 </div>
 <br>
-<h5>Thanks to @Sukuna567 for testing </h5>
+<p>Thanks to @Sukuna567 for testing </p>
