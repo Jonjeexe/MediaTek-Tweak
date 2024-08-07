@@ -50,6 +50,6 @@ Telegram account: [@Jonjeexe](https://t.me/jonjeexe)
   
 </div>
 <br>
-<p>
-Thanks to @Sukuna567 for testing 
-</p>
+
+Thanks to [@Sukuna567](https://t.me/Sukuna567) for testing 
+
