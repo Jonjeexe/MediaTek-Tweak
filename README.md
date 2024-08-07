@@ -50,4 +50,6 @@ Telegram account: @Jonjeexe
   
 </div>
 <br>
-<p>Thanks to [@Sukuna567] (https://t.me/Sukuna567). for testing </p>
+<p>
+Thanks to [@Sukuna567]  (https://t.me/Sukuna567) for testing
+</p>
