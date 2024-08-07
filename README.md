@@ -1,6 +1,9 @@
 # MediaTek-Tweak
 ![MediaTek](https://github.com/user-attachments/assets/bc7602f7-797e-4b34-b65c-315940b76583)
 
+<div>
+
+---
 
 This Module will tweak your MediaTek processor and improve performance in Gaming !
 
@@ -30,6 +33,9 @@ This Module will tweak your MediaTek processor and improve performance in Gaming
 Congratulations enjoy 🎉 
 Successfully Module flashed
 
+---
+
+</div>
 # Download 
 Download Module from Release section !
 Telegram account: @Jonjeexe
