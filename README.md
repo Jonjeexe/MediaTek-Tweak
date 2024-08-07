@@ -44,12 +44,12 @@ Successfully Module flashed
 ---
 
 Download Module from Release section !
-Telegram account: @Jonjeexe
+Telegram account: [@Jonjeexe](https://t.me/jonjeexe)
   
 ---
   
 </div>
 <br>
 <p>
-Thanks to [@Sukuna567] (https://t.me/Sukuna567).
+Thanks to @Sukuna567 for testing 
 </p>
