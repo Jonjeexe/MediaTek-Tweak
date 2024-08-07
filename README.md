@@ -37,9 +37,9 @@ Successfully Module flashed
 
 </div>
 
-<div>
 <h4>Download </h4>
----
+
+<div>
 
 Download Module from Release section !
 Telegram account: @Jonjeexe
